@@ -1,11 +1,16 @@
 _repo: Machine-Gun-Tactics_66305
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66305-h/images/cover.jpg
 creator:
   author:
     agent_name: Applin, R. V. K.
     gutenberg_agent_id: '53741'
     url: http://www.gutenberg.org/2009/agents/53741
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66305#Machine-Gun-Tactics
 gutenberg_issued: '2021-09-14'
 identifiers:
   gutenberg: '66305'
